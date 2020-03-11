@@ -4,6 +4,7 @@ a{
 .navbar-light {
 	background-color:transparent !important;
 	font-size:14px;	
+	
 }
 .navbar-light .navbar-nav .nav-link{
 	color:#fff;	
@@ -22,16 +23,7 @@ a{
 	color:#ff5518;
 }
 
-.btn-menu{
-	background-color: #080800;
-	border-radius: 12px;
-	font-size: 12px;
-}
 
-.btn-menu:hover{
-	background-color: #000;
-	
-}
 
 .navbar-light .navbar-nav .show > .nav-link{
 	color: #fff;	
@@ -54,7 +46,7 @@ a{
 }
 .navbar-light .navbar-nav .show .dropdown-menu .dropdown-item:hover,
 .navbar-light .navbar-nav .show .dropdown-menu .dropdown-itema:focus {
-  color: #fff;
+  color: #ff5518;
   text-decoration: none;
   background-color: transparent;
 }
